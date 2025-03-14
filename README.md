@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-brightgreen?style=for-the-badge)](https://www.crummy.com/software/BeautifulSoup/)
-[![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-yellow?style=for-the-badge&logo=pandas)]
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-yellow?style=for-the-badge&logo=pandas)
 
 ## 📖 About
 
