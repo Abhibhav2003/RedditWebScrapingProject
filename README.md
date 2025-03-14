@@ -33,7 +33,7 @@ Or you can manually install the required Libraries using pip :
 pip install pandas BeautifulSoup requests
 
 
-## Output :
+## Output
 On running the Script the output will stored in a xlsx format in your present working directory.
 
 
